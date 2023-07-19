@@ -10,13 +10,8 @@
 
 更多特性功能介绍、案例介绍以及使用文档请访问 [官网](https://fctsdb.rockontrol.com/)。
 
-## 免费版说明
-免费版支持的操作系统有：
-
-- Windows
-- Linux
-
-注意，免费版存在以下限制：
+## 免费版限制说明
+免费版有以下限制：
 - 每秒写入吞吐上限为1万个数据指标
 - 设备数上限为1000
 - 不包含`有损压缩`功能
@@ -29,6 +24,6 @@
 1. 扫描下方二维码关注FalconTSDB公众号，可了解海东青动态，以及进行业务咨询和学习交流。
    
    ![img](images/qrcode.jpg)
-2. 安装[微精灵](https://www.rockontrol.com/wjl.jhtml)扫描下方二维码加入海东青时序数据交流群
+2. 安装[微精灵](https://www.rockontrol.com/wjl.jhtml)扫描下方二维码加入海东青时序数据交流群，领取试用版。
    
    ![img](images/wjl_group_qrcode.jpg) 
