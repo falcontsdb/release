@@ -19,6 +19,7 @@
 - 不包含`存储层加密`功能
 - 不包含`主从`功能
 
+> 注意：目前只提供部分架构平台的二进制版本程序，若需要特殊平台版本，欢迎添加微信(falcontsdb1)或微精灵，即可免费获得。
 
 ## 联系我们
 1. 扫描下方二维码关注FalconTSDB公众号，可了解海东青动态，以及进行业务咨询和学习交流。
@@ -26,4 +27,8 @@
    ![img](images/qrcode.jpg)
 2. 安装[微精灵](https://www.rockontrol.com/wjl.jhtml)扫描下方二维码加入海东青时序数据交流群，领取试用版。
    
-   ![img](images/wjl_group_qrcode.jpg) 
+   ![img](images/wjl_group_qrcode.png) 
+
+3. 添加客服微信(falcontsdb1)，进入官网交流群交流，领取免费适用版本，也可参与活动抽奖
+   
+   ![img](images/falcontsdb1.png) 
