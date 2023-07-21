@@ -25,10 +25,17 @@
 1. 扫描下方二维码关注FalconTSDB公众号，可了解海东青动态，以及进行业务咨询和学习交流。
    
    ![img](images/qrcode.jpg)
-2. 安装[微精灵](https://www.rockontrol.com/wjl.jhtml)扫描下方二维码加入海东青时序数据交流群，领取试用版。
+
+2. 通过[微精灵下载地址](https://www.rockontrol.com/wjl.jhtml)下载安装微精灵。
+
+3. 通过扫描下方二维码注册安装微精灵。
+
+   ![img](images/wjl_reg_qrcode.jpg)
+
+4. 通过微精灵扫描下方二维码加入海东青时序数据交流群，领取试用版。
    
    ![img](images/wjl_group_qrcode.png) 
 
-3. 添加客服微信(falcontsdb1)，进入官网交流群交流，领取免费适用版本，也可参与活动抽奖
+5. 添加客服微信(falcontsdb1)，进入官网交流群交流，领取免费适用版本，也可参与活动抽奖
    
    ![img](images/falcontsdb1.png) 
