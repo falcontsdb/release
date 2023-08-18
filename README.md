@@ -1,7 +1,11 @@
 ![img](images/logo.png)
 # FalconTSDB 免费版二进制程序下载
 
-此仓库用于发布FalconTSDB海东青时序数据库免费版程序。下载地址：[https://github.com/falcontsdb/release/releases](https://github.com/falcontsdb/release/releases)，docker镜像地址：[https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general](https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general)
+此仓库用于发布FalconTSDB海东青时序数据库免费版二进制程序。
+
+二进制下载地址：[https://github.com/falcontsdb/release/releases](https://github.com/falcontsdb/release/releases)。
+
+Docker镜像地址：[https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general](https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general)
 
 ## 关于海东青
 海东青时序数据库是一款高性能的支持跨平台、国产化、主从高可用、SQL的时序数据库，兼容MySQL、InfluxDB v1。它专门针对大量时序数据的场景实现列式存储物理引擎，提供高压缩比的低成本存储、高效的数据写入和查询服务。
@@ -18,6 +22,7 @@
 - 不包含`主从`功能
 
 > 注意：目前只提供部分架构平台的二进制版本程序，若需要特殊平台版本，欢迎添加微信(falcontsdb1)或微精灵，即可免费获得。
+> 若需正式版试用，请联系我们。
 
 ## 联系我们
 1. 扫描下方二维码关注FalconTSDB公众号，可了解海东青动态，以及进行业务咨询和学习交流。
@@ -34,6 +39,6 @@
    
    ![img](images/wjl_group_qrcode.png) 
 
-5. 添加客服微信(falcontsdb1)，进入官网交流群交流，领取免费适用版本，也可参与活动抽奖
+5. 添加客服微信(falcontsdb1)，进入官网交流群交流，领取正式版试用，也可参与活动抽奖
    
    ![img](images/falcontsdb1.png) 
