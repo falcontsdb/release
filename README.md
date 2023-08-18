@@ -1,7 +1,7 @@
 ![img](images/logo.png)
 # FalconTSDB 免费版二进制程序下载
 
-此仓库用于发布FalconTSDB海东青时序数据库免费版程序。下载地址：[https://github.com/falcontsdb/release/releases](https://github.com/falcontsdb/release/releases)
+此仓库用于发布FalconTSDB海东青时序数据库免费版程序。下载地址：[https://github.com/falcontsdb/release/releases](https://github.com/falcontsdb/release/releases)，docker镜像地址：[https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general](https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general)
 
 ## 关于海东青
 海东青时序数据库是一款高性能的支持跨平台、国产化、主从高可用、SQL的时序数据库，兼容MySQL、InfluxDB v1。它专门针对大量时序数据的场景实现列式存储物理引擎，提供高压缩比的低成本存储、高效的数据写入和查询服务。
@@ -12,8 +12,6 @@
 
 ## 免费版限制说明
 免费版有以下限制：
-- 每秒写入吞吐上限为1万个数据指标
-- 设备数上限为1000
 - 不包含`有损压缩`功能
 - 不包含`数据脱敏`功能
 - 不包含`存储层加密`功能
@@ -32,7 +30,7 @@
 
    ![img](images/wjl_reg_qrcode.jpg)
 
-4. 通过微精灵扫描下方二维码加入海东青时序数据交流群，领取试用版。
+4. 通过微精灵扫描下方二维码加入海东青时序数据交流群，领取正式版试用。
    
    ![img](images/wjl_group_qrcode.png) 
 
