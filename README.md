@@ -5,7 +5,7 @@
 
 二进制下载地址：[https://github.com/falcontsdb/release/releases](https://github.com/falcontsdb/release/releases)。
 
-Docker镜像地址：[https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general](https://hub.docker.com/repository/docker/falcontsdb/falcontsdb/general)
+Docker镜像地址：[https://hub.docker.com/repository/docker/falcontsdb/fctsdb](https://hub.docker.com/repository/docker/falcontsdb/fctsdb)
 
 ## 关于海东青
 海东青时序数据库是一款高性能的支持跨平台、国产化、主从高可用、SQL的时序数据库，兼容MySQL、InfluxDB v1。它专门针对大量时序数据的场景实现列式存储物理引擎，提供高压缩比的低成本存储、高效的数据写入和查询服务。
